@@ -15,3 +15,6 @@ Altsistemler için konseptsel tasarım örneği ektedir.
 
 https://github.com/user-attachments/assets/849641a6-0988-46e4-bfa8-1fa0900de1d0
 
+<img width="653" height="389" alt="image" src="https://github.com/user-attachments/assets/7da57fd0-a4c6-4422-8a0c-011816f6c01d" />
+
+
